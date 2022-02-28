@@ -42,8 +42,6 @@ function generateMarkdown(data) {
 	//  console.log(linkLicense)
 	return `
 # ${data.title}
-
- 
   
   ## Description
   ${data.description}
@@ -71,7 +69,7 @@ ${linkLicense}
 
     
   ##Tests
-  ${data.tests}
+  ${data.tests} 
     
   ##Contribute
   ${data.contribute}

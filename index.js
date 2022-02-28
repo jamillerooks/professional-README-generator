@@ -50,7 +50,7 @@ function init() {
 			{
 				type: 'input',
 				name: 'tests',
-				message: 'Provide a demonstration of this app?',
+				message: 'Would you like to provide a demonstration of this app?',
 			},
 			{
 				type: 'input',
