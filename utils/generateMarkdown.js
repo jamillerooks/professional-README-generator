@@ -69,7 +69,7 @@ ${linkLicense}
 
     
   ##Tests
-  ${data.tests} 
+  ${data.tests} A video link to the file: 'https://drive.google.com/file/d/1Gf-pZTW3rf9O1d273awPFeg9auajLl_A/view'
     
   ##Contribute
   ${data.contribute}

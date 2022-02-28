@@ -1,8 +1,8 @@
 
-# ss
+# Generate README
   
   ## Description
-  ss
+  This project takes user input in the CLI and creates a README markdown file.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,13 +14,13 @@
 
   
   ## Installation
-  ss
+  Run npm install then run npm start.
   
   ## Usage
-  ss
+  Run npm start
     
   ## Credits
-  ss
+  No collaborators
     
   ## License
 
@@ -30,13 +30,13 @@ Licensed under the mit license
 
     
   ##Tests
-  ss A video link of application 'https://drive.google.com/file/d/1Gf-pZTW3rf9O1d273awPFeg9auajLl_A/view'
+  A video link is provided. A video link to the file: 'https://drive.google.com/file/d/1Gf-pZTW3rf9O1d273awPFeg9auajLl_A/view'
     
   ##Contribute
-  ss
+  This project is closed, ask the developer if you would like to collaborate.
   
   ## Github
-  ss
+  jamillerooks
     
   ## Email
-  ss
+  JamilleRooks@outlook.com
